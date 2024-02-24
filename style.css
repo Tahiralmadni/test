@@ -1,0 +1,90 @@
+.col{
+    background-color: #ecb807;
+    }
+.center {
+    margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+     padding: 50px;
+     width: 0%;
+     
+     
+   
+    }
+ .center-nav{
+     margin-left: auto;
+     margin-right: auto;
+     position: fixed;
+     left: 32%;
+     
+   }
+ .nav ul li{
+  display: inline-block;
+  list-style: none;
+  margin: 10px;
+  font-weight: bold;
+  }
+ img{
+    background: cover;
+ }
+ h1{
+    text-align: center;
+    font-size:4rem;
+    font-weight: bold;
+ }
+ h3{
+    text-align: center;
+    font-size: x-large;
+     }
+ .para{
+   background-color: white;
+ }  
+ h2{
+   text-align: center;
+   margin-top: 100px;
+ }
+ .parag{
+   text-align: center;
+ }
+ .colou{
+   background-color: #1D809F;
+   margin-top: 70px;
+ }
+ .yellow{
+   color: yellow;
+   margin-top: 100px;
+   font-size: 20px;
+   font-weight: bold;
+   text-transform: uppercase;
+    }
+.white{
+   color: white;
+}
+.icon{
+background-color:#1D809F ;
+}
+#col
+{
+margin-top: 50px;
+}
+.one{
+   background-color: white;
+display: flex;
+flex-direction: row;
+}
+.class{
+  text-align: center;
+   padding-top: 10px;
+   margin-top: -50px;
+   background-color: white;
+      }
+      .fa-brands{
+        background-color: white;
+        font-size: larger;
+        margin-left: 500px;
+      }
+   .fa-regular{
+    font-size: 100px;
+   }
+
+
